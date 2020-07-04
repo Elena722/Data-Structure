@@ -1,2 +1,2 @@
 # Data-Structure
-Example-> LinkedList and Tree
+Example-> LinkedList, Tree, Queue, Stack
